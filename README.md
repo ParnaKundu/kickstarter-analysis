@@ -35,12 +35,15 @@ Not really a challenge but more of an error, while coding the COUNTIFS function 
 - What are two conclusions you can draw about the Outcomes based on Launch Date? 
 
         
-    Looking at the chart [Theater_Outcomes_vs_Launch](https://github.com/ParnaKundu/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png), it appears that the month of May has the most successful campaigns. It would be a good time for Loiuse to kickstart her campaign in that month. Between May and September, although there is a general decline of the successful campaigns, the number of failed campaigns seem to remain the same. This timeframe seems to be the most successful to launch any campaign and expect them to be successful. 
+    Looking at the chart below, it appears that the month of May has the most successful campaigns. It would be a good time for Loiuse to kickstart her campaign in that month. Between May and September, although there is a general decline of the successful campaigns, the number of failed campaigns seem to remain the same. This timeframe seems to be the most successful to launch any campaign and expect them to be successful. 
+    
+    ![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
 
 - What can you conclude about the Outcomes based on Goals?
 
     
     Looking at the chart below, it is pretty evident that the lower the Goal amount the higher the success rate.  
+    
     ![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 
 - What are some limitations of this dataset?
