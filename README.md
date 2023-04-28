@@ -40,7 +40,8 @@ Not really a challenge but more of an error, while coding the COUNTIFS function 
 - What can you conclude about the Outcomes based on Goals?
 
     
-    Looking at the chart [Outcomes_vs_Goals](https://github.com/ParnaKundu/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png), it is pretty evident that the lower the Goal amount the higher the success rate.  
+    Looking at the chart below, it is pretty evident that the lower the Goal amount the higher the success rate.  
+    ![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 
 - What are some limitations of this dataset?
 
