@@ -27,7 +27,7 @@ The purpose of the project is to help Louise make an informed decision about how
 
 
 ### Challenges and Difficulties Encountered
-    Not really a challenge but more of an error, while coding the COUNTIFS function I missed the boundary conditions. For example, when trying to count the number of Successful outcomes for goals between 1000 and 4999, I had simply coded >1000 and < 4999. Due to this several outcomes having 1000 or 4999 as the goal amount were not counted and this skewed the total outcomes. Once I fixed the condition to >=1000 and <= 4999 the results were correctly reflected. So it is very important to test for boundary conditions when coding any conditional statement.
+Not really a challenge but more of an error, while coding the COUNTIFS function I missed the boundary conditions. For example, when trying to count the number of Successful outcomes for goals between 1000 and 4999, I had simply coded >1000 and < 4999. Due to this several outcomes having 1000 or 4999 as the goal amount were not counted and this skewed the total outcomes. Once I fixed the condition to >=1000 and <= 4999 the results were correctly reflected. So it is very important to test for boundary conditions when coding any conditional statement.
 
 ## Results
 
